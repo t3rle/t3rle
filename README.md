@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there 👋
+
+My name is Jacob, and I’m a software engineering student passionate about exploring ideas and turning them into something useful.  
+I enjoy collaborating with others, sharing knowledge, and constantly learning along the way.  
+
+Outside of coding, you’ll often find me climbing or experimenting with photography ^^
+
 
 <!--
 **t3rle/t3rle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
